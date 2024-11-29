@@ -1,4 +1,4 @@
-Author NetlinkID: alexandergarrettt
+Author alex garrettt
 
 DESCRIPTION:
 a2.py is a tool for analyzing .cap capture files
