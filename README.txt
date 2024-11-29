@@ -9,7 +9,7 @@ To use call, use python3 and pass your website through stdin:
 
  % python3 a2.py {your wireshark capture}.cap
 
-Smart Client will print 
+will print 
 A) Total number of connections:
 B) Connections' details:
 Connection 1:
